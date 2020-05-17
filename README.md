@@ -10,7 +10,7 @@ This project was aimed towards exposing myself to the idea of a genetic algorith
 
 ## Setup
 
-This project is build within the Processing software, but written in Python. In order to run the project, install Processing [here](https://processing.org/download/). As far as I am aware, this project should work on any operating system with Processing installed.   
+This project is built within the Processing software, but written in Python. In order to run the project, install Processing [here](https://processing.org/download/). As far as I am aware, this project should work on any operating system with Processing installed.   
 
 ## Usage 
 
@@ -32,4 +32,6 @@ walls[3] = wall(200, 400, 300, 50)
 - **h:** vertical height of the wall. 
 
 Then, in order to change the number of balls, change the first parameter of the initialization of brain.  
+
+By default the goal is the bottom left corner, feel free to change this in the parameters as well to any coordinate in the plane. 
   
